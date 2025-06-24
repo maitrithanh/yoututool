@@ -6,3 +6,4 @@
 ## 3: pip install flask yt-dlp flask-cors
 ## 4: Run server: **python app.py**
 > ### *Running on http://127.0.0.1:5000*
+> ### http://127.0.0.1:5000/api/video-info
